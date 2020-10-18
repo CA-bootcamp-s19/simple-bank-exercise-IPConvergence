@@ -18,7 +18,7 @@ contract SimpleBank {
     /* Fill in the keyword. We want to create a getter function and allow contracts to be able to see if a user is enrolled.  */
     mapping (address => bool) enrolled;
 
-    /* Let's make sure everyone knows who owns the bank. Use the appropriate keyword for this*/
+    /* Let's make sure everyone knows who owns the bank.  Use  the appropriate keyword for this*/
     address owner;
     
     //
