@@ -8,7 +8,7 @@ pragma solidity ^0.6.12;
 
 contract SimpleBank {
 
-    // 
+    //  
     // State variables 
     //
     
