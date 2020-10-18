@@ -9,7 +9,7 @@ pragma solidity ^0.6.12;
 contract SimpleBank {
 
     //
-    // State variables
+    // State variables 
     //
     
     /* Fill in the keyword. Hint: We want to protect our users balance from other contracts*/
